@@ -2,14 +2,5 @@
 2. Hello, there, my name is Lorita Sesame Icyeza 
 3. Hello, there, my name is Cletus Ayeebo Abugre
 4. Hello, there, my name is Henriette UTATSINEZA
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-4. Hello, there, my name is Elise Julio Hakizimana
-5. Hello, there, my name is Emerance Umurerwa
-6. Hello, there, my name is SHYAKA Mike
-=======
-5. Hello, there, my name is Emerance Umurerwa.
-6. Hello, there, my name is Elise Julio Hakizimana
->>>>>>> ebef4d0e2541076be725c01be5efcae658136ca2
+5. Hello, there, my name is Elise Julio Hakizimana
+6. Hello, there, my name is Emerance Umurerwa
