@@ -1,2 +1,7 @@
 1. Hello, there, my name is Nick-Lemy
+<<<<<<< HEAD
+
 2. Hello, there, my name is Lorita Sesame Icyeza
+=======
+2. Hello, there, my name is Zkaynl7
+>>>>>>> ec0cebfea1eecd2b9e5137ecdeb4e14680eb977e
