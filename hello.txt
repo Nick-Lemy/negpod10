@@ -1,15 +1,6 @@
 1. Hello, there, my name is Nick-Lemy
 2. Hello, there, my name is Lorita Sesame Icyeza 
 3. Hello, there, my name is Cletus Ayeebo Abugre
-<<<<<<< HEAD
-<<<<<<< HEAD
-4. Hello, there, my name is Elise Julio Hakizimana
-5. Hello, there, my name is Emerance Umurerwa
-=======
->>>>>>> 1ad7a2289529108c1336caa3f6ab21b6ea4ae972
-=======
 4. Hello, there, my name is Henriette UTATSINEZA
-
->>>>>>> d82bb4703025f63e0a09d15c93ef3541eb31ae8a
-1. Hello, there, my name is Emerance Umurerwa
-2. This line was added from the remote repository.
+5. Hello, there, my name is Emerance Umurerwa.
+6. Hello, there, my name is Elise Julio Hakizimana
