@@ -7,8 +7,4 @@
 <<<<<<< HEAD
 4. Hello, there, my name is Elise Julio Hakizimana
 5. Hello, there, my name is Emerance Umurerwa
-
->>>>>>> d82bb4703025f63e0a09d15c93ef3541eb31ae8a
-1. Hello, there, my name is Emerance Umurerwa
-2. This line was added from the remote repository.
->>>>>>> e3228438c5e76c996bfa22a042ef68864efa3cce
+6. Hello, there, my name is SHYAKA Mike
