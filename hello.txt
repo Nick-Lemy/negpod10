@@ -2,3 +2,5 @@
 2. Hello, there, my name is Lorita Sesame Icyeza 
 3. Hello, there, my name is Cletus Ayeebo Abugre
 4. Hello, there, my name is Henriette UTATSINEZA
+5. Hello, there, my name is Emerance Umurerwa
+6. This line was added from the remote repository.
